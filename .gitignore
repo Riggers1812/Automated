@@ -1,1 +1,3 @@
 /.vscode
+.gitignore
+.organise_pdf_wages.py
